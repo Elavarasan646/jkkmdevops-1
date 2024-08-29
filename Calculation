@@ -1,10 +1,7 @@
 public int add(int [] a ) {
 
-int val = 0 ; 
-for(int i ; i < a.size() ; i++){
-val = val + a[i];
-}
+int val =+7
 
-return val 
+
 
 }
